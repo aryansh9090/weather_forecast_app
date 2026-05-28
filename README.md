@@ -29,14 +29,25 @@ For: PM Accelerator - AI Engineer Intern Tech Assessment 1
 
 Follow these steps to run the project locally,
 
+## How To Run
+
+Follow these steps to run the project locally:
+
 1. **Clone the repository:**
-   ```bash
-   git clone <your-repo-url>
-   cd weather_travelling_app
-Install dependencies:
+bash
+git clone https://github.com/aryansh9090/weather_forecast_app.git
+cd weather_forecast_app
+
+
+2. **Install dependencies:**
 bash
 npm install
-Run the development server:
+
+
+3. **Run the development server:**
 bash
 npm run dev
-Open the app: Open your browser and navigate to http://localhost:3000
+
+
+4. **Open the app:**
+Open your browser and navigate to http://localhost:3000
