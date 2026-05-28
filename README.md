@@ -1,2 +1,42 @@
-# weather_forecast_app
-AI-powered weather app built with Next.js &amp; Open-Meteo API. Features real-time weather, 10-day forecast, AQI, travel planner, city comparison, and smart clothing &amp; travel suggestions.
+ Weather Travel Assistant
+
+Built by: Aryan Sharma  
+For: PM Accelerator - AI Engineer Intern Tech Assessment 1
+
+##  Features
+
+- Real-Time Weather Data: Get instant access to current weather conditions (temperature, feels like, wind speed, conditions).
+- Location Detection: Automatically detect the user's current location via browser geolocation.
+- Dynamic Search: Search for any city worldwide to get instant weather updates.
+- 10-Day Forecast: Detailed upcoming weather predictions including daily highs and lows.
+- Hourly Forecast: Plan your day precisely with hourly temperature and precipitation data.
+- Air Quality Index (AQI):** Stay healthy with real-time air quality metrics and alerts.
+- City Comparison: Compare weather conditions between multiple cities side-by-side.
+- Travel & Clothing Suggestions:** AI-driven insights on what to wear and the best times to go out based on the weather.
+- Interactive Weather Map: Visual representation of locations using Leaflet mini-maps.
+- Dynamic UI:** Responsive, beautiful interface that changes dynamically based on day/night cycles and weather conditions.
+- About PM Accelerator: An integrated info panel detailing the mission of PM Accelerator.
+
+## 🛠 Tech Stack
+
+- **Frontend Framework:** React, Next.js
+- **Styling:** Tailwind CSS
+- **Weather Data:** Open-Meteo API
+- **Air Quality Data:** Open-Meteo Air Quality API
+- **Geocoding & Maps:** Nominatim (OpenStreetMap), Leaflet.js
+
+## How To Run
+
+Follow these steps to run the project locally,
+
+1. **Clone the repository:**
+   ```bash
+   git clone <your-repo-url>
+   cd weather_travelling_app
+Install dependencies:
+bash
+npm install
+Run the development server:
+bash
+npm run dev
+Open the app: Open your browser and navigate to http://localhost:3000
