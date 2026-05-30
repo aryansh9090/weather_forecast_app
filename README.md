@@ -1,7 +1,9 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64743793-d967-4627-bfe3-4d645186da58" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/240dfa8b-28c3-4ae2-9aa3-a9e454b1e2a6" />
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/973694f9-6f80-417b-b25f-859b64273e70" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0373d882-96c7-40f2-a00b-8eb30ed110bf" />
 <img width="1914" height="916" alt="image" src="https://github.com/user-attachments/assets/32483d7f-a935-4228-aae7-00849f8ab1b5" />
-![Uploading image.png…]()
+<img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/9ec50ffb-7828-4e1d-ab57-56dee8359a42" />
+
 
 
  Weather Travel Assistant
