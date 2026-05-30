@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64743793-d967-4627-bfe3-4d645186da58" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0373d882-96c7-40f2-a00b-8eb30ed110bf" />
+<img width="1914" height="916" alt="image" src="https://github.com/user-attachments/assets/32483d7f-a935-4228-aae7-00849f8ab1b5" />
+![Uploading image.png…]()
+
+
  Weather Travel Assistant
 
 Built by: Aryan Sharma  
